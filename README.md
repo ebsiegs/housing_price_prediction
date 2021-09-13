@@ -1,4 +1,4 @@
-# Modeling Ames, Iowa Real Estate and Kaggle Challenge
+# Predicting Ames, Iowa Real Estate Prices with Linear Regression
 
 ## Contents
 - [Problem Statement](#Problem-Statement)
